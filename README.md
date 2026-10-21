@@ -15,7 +15,7 @@ en los puntos de venta.
 ## Backlog Ágil
 Tablero del proyecto: [Ver en GitHub Projects](PEGÁ-ACÁ-EL-LINK-DEL-TABLERO)
 
-![Diagrama BPMN del proceso de gestión de pedidos](docs/gestion_pedidos.png)
+![Diagrama BPMN del proceso de gestión de pedidos](docs/tablero_agil.png)
 
 ### Historias de Usuario
 - **HU-01** (#3): Como encargado de compras, quiero recibir una alerta cuando el stock de un insumo baje del umbral crítico, para generar la orden de compra antes de que falte.
