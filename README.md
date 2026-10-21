@@ -11,3 +11,13 @@ en los puntos de venta.
 
 ## Documentación
 - Diagrama BPMN: docs/bpmn_gestion_pedidos.png
+
+## Backlog Ágil
+Tablero del proyecto: [Ver en GitHub Projects](PEGÁ-ACÁ-EL-LINK-DEL-TABLERO)
+
+![Diagrama BPMN del proceso de gestión de pedidos](docs/gestion_pedidos.png)
+
+### Historias de Usuario
+- **HU-01** (#3): Como encargado de compras, quiero recibir una alerta cuando el stock de un insumo baje del umbral crítico, para generar la orden de compra antes de que falte.
+- **HU-02** (#4): Como responsable de calidad, quiero rastrear un lote desde la materia prima hasta el cliente que lo recibió, para avisar rápido a quién se entregó si hay que retirarlo.
+- **HU-03** (#5): Como encargado de distribución, quiero ver el stock real de producto terminado en tiempo real, para organizar los envíos y evitar sobrestock o faltantes en los puntos de venta.
