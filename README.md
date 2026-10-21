@@ -10,12 +10,14 @@ en los puntos de venta.
 - Luka Sfara – Tecnicatura Universitaria en Programación, UTN
 
 ## Documentación
-- Diagrama BPMN: docs/bpmn_gestion_pedidos.png
+- Diagrama BPMN del proceso de gestión de pedidos:
+
+![Diagrama BPMN del proceso de gestión de pedidos](docs/bpmn_gestion_pedidos.png)
 
 ## Backlog Ágil
-Tablero del proyecto: [Ver en GitHub Projects](PEGÁ-ACÁ-EL-LINK-DEL-TABLERO)
+Tablero del proyecto: [Ver en GitHub Projects](https://github.com/users/Luka-Sfara/projects/4)
 
-![Diagrama BPMN del proceso de gestión de pedidos](docs/tablero_agil.png)
+![Tablero ágil del proyecto en GitHub Projects](docs/tablero_agil.png)
 
 ### Historias de Usuario
 - **HU-01** (#3): Como encargado de compras, quiero recibir una alerta cuando el stock de un insumo baje del umbral crítico, para generar la orden de compra antes de que falte.
